@@ -1,0 +1,11 @@
+{
+  "source_files": {
+    "Users.csv": 30,
+    "Offers.csv": 40,
+    "LoyaltyHistory.csv": 1711,
+    "Accounts.csv": 55,
+    "LoyaltyPrograms.csv": 3
+  },
+  "generated_at": "2026-04-29",
+  "artifact": "T-Bank Loyalty Hub MVP"
+}

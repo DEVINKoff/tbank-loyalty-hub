@@ -1,0 +1,176 @@
+{
+  "user": {
+    "id": "1",
+    "email": "dmitriy.ivanov29@yandex.ru",
+    "phone_number": "+7 994 204-96-79",
+    "full_name": "Иванов Дмитрий Иванович",
+    "financial_segment": "LOW"
+  },
+  "accounts": [
+    {
+      "account_id": "1",
+      "program_name": "All Airlines",
+      "currency": "miles",
+      "current_balance": 82155.16
+    }
+  ],
+  "totals_by_currency": {
+    "miles": 8186.0
+  },
+  "monthly_chart": [
+    {
+      "month": "2025-02",
+      "miles": 481.0
+    },
+    {
+      "month": "2025-03",
+      "miles": 613.0
+    },
+    {
+      "month": "2025-04",
+      "miles": 1105.0
+    },
+    {
+      "month": "2025-05",
+      "miles": 519.0
+    },
+    {
+      "month": "2025-06",
+      "miles": 57.0
+    },
+    {
+      "month": "2025-07",
+      "miles": 732.0
+    },
+    {
+      "month": "2025-08",
+      "miles": 1162.0
+    },
+    {
+      "month": "2025-09",
+      "miles": 72.0
+    },
+    {
+      "month": "2025-10",
+      "miles": 897.0
+    },
+    {
+      "month": "2025-11",
+      "miles": 289.0
+    },
+    {
+      "month": "2025-12",
+      "miles": 1035.0
+    },
+    {
+      "month": "2026-01",
+      "miles": 920.0
+    },
+    {
+      "month": "2026-02",
+      "miles": 304.0
+    }
+  ],
+  "forecast": {
+    "miles": {
+      "next_month": 753.0,
+      "next_year": 9036.0
+    }
+  },
+  "offers": [
+    {
+      "partner_id": "32",
+      "partner_name": "Бизнес Ассист",
+      "short_description": "Виртуальный ассистент",
+      "logo_url": "https://img.freepik.com/premium-vector/vector-design-brand-image-icon-style_822882-236021.jpg?semt=ais_rp_progressive&w=740&q=80",
+      "brand_color_hex": "#222F3E",
+      "cashback_percent": 14.0,
+      "financial_segment": "LOW"
+    },
+    {
+      "partner_id": "10",
+      "partner_name": "Шеф на Час",
+      "short_description": "Выездной повар",
+      "logo_url": "https://img.freepik.com/premium-vector/vector-design-brand-image-icon-style_822882-236021.jpg?semt=ais_rp_progressive&w=740&q=80",
+      "brand_color_hex": "#C0392B",
+      "cashback_percent": 13.0,
+      "financial_segment": "LOW"
+    },
+    {
+      "partner_id": "6",
+      "partner_name": "Переезд Легко",
+      "short_description": "Грузчики и переезды",
+      "logo_url": "https://img.freepik.com/premium-vector/vector-design-brand-image-icon-style_822882-236021.jpg?semt=ais_rp_progressive&w=740&q=80",
+      "brand_color_hex": "#9B59B6",
+      "cashback_percent": 12.0,
+      "financial_segment": "LOW"
+    },
+    {
+      "partner_id": "25",
+      "partner_name": "Веломастер",
+      "short_description": "Ремонт велосипедов",
+      "logo_url": "https://img.freepik.com/premium-vector/vector-design-brand-image-icon-style_822882-236021.jpg?semt=ais_rp_progressive&w=740&q=80",
+      "brand_color_hex": "#5F27CD",
+      "cashback_percent": 12.0,
+      "financial_segment": "LOW"
+    },
+    {
+      "partner_id": "7",
+      "partner_name": "Зооняня+",
+      "short_description": "Уход за питомцами",
+      "logo_url": "https://img.freepik.com/premium-vector/vector-design-brand-image-icon-style_822882-236021.jpg?semt=ais_rp_progressive&w=740&q=80",
+      "brand_color_hex": "#16A085",
+      "cashback_percent": 11.0,
+      "financial_segment": "LOW"
+    },
+    {
+      "partner_id": "20",
+      "partner_name": "Садовый Патруль",
+      "short_description": "Уход за садом",
+      "logo_url": "https://img.freepik.com/premium-vector/vector-design-brand-image-icon-style_822882-236021.jpg?semt=ais_rp_progressive&w=740&q=80",
+      "brand_color_hex": "#55EFC4",
+      "cashback_percent": 11.0,
+      "financial_segment": "LOW"
+    }
+  ],
+  "cross_sell": [
+    {
+      "product": "T-Мобайл",
+      "reason": "снизить регулярные расходы и вернуть кэшбэк за связь",
+      "cta": "Подобрать тариф"
+    },
+    {
+      "product": "T-Инвестиции",
+      "reason": "начать с учебных подборок и малых сумм",
+      "cta": "Открыть брокерский счёт"
+    },
+    {
+      "product": "Повышенные категории",
+      "reason": "сконцентрировать выгоду в повседневных тратах",
+      "cta": "Выбрать категории"
+    }
+  ],
+  "missions": [
+    {
+      "title": "Добейте месячную цель",
+      "description": "Получите ещё 196 бонусов до статуса «Выгодный месяц».",
+      "progress": 61
+    },
+    {
+      "title": "Активируйте 2 партнёрские акции",
+      "description": "Офферы подобраны по вашему финансовому сегменту и не перегружают главный экран.",
+      "progress": 50
+    },
+    {
+      "title": "Проверьте прогноз выгоды",
+      "description": "ИИ-подсказка покажет, какие продукты сильнее увеличат возврат в следующем месяце.",
+      "progress": 0
+    }
+  ],
+  "ai_insights": [
+    "Основной источник выгоды сейчас — All Airlines. Его стоит показывать первым в аналитике.",
+    "Для сегмента LOW лучше продвигать офферы с понятным немедленным кэшбэком и не больше 3 cross-sell карточек на первом экране.",
+    "Прогноз рассчитан по среднему за последние 3 активных месяца, поэтому он понятен пользователю и легко объясняется в интерфейсе."
+  ],
+  "transaction_count": 31
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "1",
+    "email": "dmitriy.ivanov29@yandex.ru",
+    "phone_number": "+7 994 204-96-79",
+    "full_name": "Иванов Дмитрий Иванович",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "2",
+    "email": "artem.smirnov65@list.ru",
+    "phone_number": "+7 903 674-35-93",
+    "full_name": "Смирнов Артём Иванович",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "3",
+    "email": "darya.fedorova98@yandex.ru",
+    "phone_number": "+7 989 532-53-45",
+    "full_name": "Фёдорова Дарья Александровна",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "4",
+    "email": "ekaterina.smirnova13@bk.ru",
+    "phone_number": "+7 944 718-43-15",
+    "full_name": "Смирнова Екатерина Павловна",
+    "financial_segment": "HIGH"
+  },
+  {
+    "id": "5",
+    "email": "elena.smirnova81@list.ru",
+    "phone_number": "+7 946 691-34-18",
+    "full_name": "Смирнова Елена Михайловна",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "6",
+    "email": "alina.smirnova49@bk.ru",
+    "phone_number": "+7 958 750-56-30",
+    "full_name": "Смирнова Алина Дмитриевна",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "7",
+    "email": "ekaterina.volkova69@gmail.com",
+    "phone_number": "+7 931 267-69-58",
+    "full_name": "Волкова Екатерина Сергеевна",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "8",
+    "email": "nikita.morozov30@mail.ru",
+    "phone_number": "+7 940 510-44-18",
+    "full_name": "Морозов Никита Александрович",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "9",
+    "email": "sofiya.popova83@inbox.ru",
+    "phone_number": "+7 918 371-27-41",
+    "full_name": "Попова София Павловна",
+    "financial_segment": "HIGH"
+  },
+  {
+    "id": "10",
+    "email": "tatyana.semenova47@yandex.ru",
+    "phone_number": "+7 917 621-73-21",
+    "full_name": "Семёнова Татьяна Павловна",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "11",
+    "email": "ivan.morozov77@mail.ru",
+    "phone_number": "+7 949 490-86-69",
+    "full_name": "Морозов Иван Павлович",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "12",
+    "email": "maksim.morozov99@gmail.com",
+    "phone_number": "+7 943 214-47-65",
+    "full_name": "Морозов Максим Михайлович",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "13",
+    "email": "mariya.novikova81@bk.ru",
+    "phone_number": "+7 981 619-87-35",
+    "full_name": "Новикова Мария Дмитриевна",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "14",
+    "email": "nikita.fedorov3@mail.ru",
+    "phone_number": "+7 946 999-49-40",
+    "full_name": "Фёдоров Никита Владимирович",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "15",
+    "email": "mihail.smirnov98@list.ru",
+    "phone_number": "+7 998 228-26-94",
+    "full_name": "Смирнов Михаил Дмитриевич",
+    "financial_segment": "HIGH"
+  },
+  {
+    "id": "16",
+    "email": "tatyana.novikova28@list.ru",
+    "phone_number": "+7 996 847-98-35",
+    "full_name": "Новикова Татьяна Павловна",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "17",
+    "email": "elena.mihaylova16@yandex.ru",
+    "phone_number": "+7 928 165-53-12",
+    "full_name": "Михайлова Елена Владимировна",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "18",
+    "email": "maksim.ivanov30@mail.ru",
+    "phone_number": "+7 904 980-52-19",
+    "full_name": "Иванов Максим Александрович",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "19",
+    "email": "elena.popova93@list.ru",
+    "phone_number": "+7 973 584-41-70",
+    "full_name": "Попова Елена Сергеевна",
+    "financial_segment": "HIGH"
+  },
+  {
+    "id": "20",
+    "email": "egor.morozov55@inbox.ru",
+    "phone_number": "+7 959 984-16-96",
+    "full_name": "Морозов Егор Андреевич",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "21",
+    "email": "nikita.sokolov32@yandex.ru",
+    "phone_number": "+7 924 649-67-27",
+    "full_name": "Соколов Никита Дмитриевич",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "22",
+    "email": "maksim.lebedev71@mail.ru",
+    "phone_number": "+7 906 767-79-11",
+    "full_name": "Лебедев Максим Владимирович",
+    "financial_segment": "HIGH"
+  },
+  {
+    "id": "23",
+    "email": "egor.kuznetsov62@yandex.ru",
+    "phone_number": "+7 951 160-31-58",
+    "full_name": "Кузнецов Егор Владимирович",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "24",
+    "email": "polina.vasileva20@yandex.ru",
+    "phone_number": "+7 937 322-17-84",
+    "full_name": "Васильева Полина Владимировна",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "25",
+    "email": "anna.ivanova65@list.ru",
+    "phone_number": "+7 920 158-75-20",
+    "full_name": "Иванова Анна Владимировна",
+    "financial_segment": "HIGH"
+  },
+  {
+    "id": "26",
+    "email": "artem.morozov16@list.ru",
+    "phone_number": "+7 931 692-86-15",
+    "full_name": "Морозов Артём Павлович",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "27",
+    "email": "darya.semenova86@gmail.com",
+    "phone_number": "+7 940 344-43-60",
+    "full_name": "Семёнова Дарья Ивановна",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "28",
+    "email": "ekaterina.petrova59@list.ru",
+    "phone_number": "+7 972 202-19-78",
+    "full_name": "Петрова Екатерина Александровна",
+    "financial_segment": "LOW"
+  },
+  {
+    "id": "29",
+    "email": "ekaterina.semenova48@bk.ru",
+    "phone_number": "+7 920 548-79-48",
+    "full_name": "Семёнова Екатерина Ивановна",
+    "financial_segment": "MEDIUM"
+  },
+  {
+    "id": "30",
+    "email": "kirill.morozov85@mail.ru",
+    "phone_number": "+7 917 370-24-23",
+    "full_name": "Морозов Кирилл Михайлович",
+    "financial_segment": "MEDIUM"
+  }
+]

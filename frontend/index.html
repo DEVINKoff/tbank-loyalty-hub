@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>T-Банк — единая лояльность</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">RadioHack MVP</p>
+      <h1>Центр выгоды</h1>
+      <p class="subtitle">Единый раздел для кэшбэка, миль, бонусов, акций, прогнозов и персональных предложений.</p>
+    </div>
+    <div class="actions">
+      <select id="userSelect" aria-label="Выбор пользователя"></select>
+      <button id="themeToggle" type="button">🌙</button>
+    </div>
+  </header>
+
+  <main id="app" class="layout" aria-live="polite">
+    <section class="skeleton">Загрузка профиля...</section>
+  </main>
+
+  <template id="errorTemplate">
+    <section class="error">
+      <h2>Не удалось загрузить API</h2>
+      <p>Запустите backend командой <code>uvicorn app.main:app --reload</code> из папки <code>backend</code>.</p>
+    </section>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>
